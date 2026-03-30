@@ -3,6 +3,8 @@
 FieldFlow is a database system that manages field technician dispatch, job tracking, and client feedback. This project migrates the relational database from Project 1 into a MongoDB document database.
 
 ---
+## Walkthrough Video
+[Click here to watch] https://drive.google.com/file/d/1X4fiUNXicTmGyLrRuxISeb6lKP0Xm7jW/view?usp=sharing
 ## Main Tables
 [View hierarchical tables on Lucidchart. Please disregard extra graps on the left. I reached the maximum of 3 uploads on Lucidchart.](https://lucid.app/lucidchart/bdeddc4a-af88-4875-9130-48e434477465/edit?viewport_loc=1961%2C-535%2C809%2C1374%2C0_0&invitationId=inv_2c719068-2abe-4d44-81ea-753d960d72d4)
 
